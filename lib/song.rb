@@ -29,7 +29,7 @@ def self.count
  @@artists = []
  
 def self.artist_count
-  @@artists.inject(hash.new(0)){|total, i| total [i] += 1; total}
+  @@artists.
 end
 
 def self.artists
