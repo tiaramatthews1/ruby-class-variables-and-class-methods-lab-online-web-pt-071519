@@ -29,7 +29,7 @@ def self.count
  @@artists = []
  
 def self.artist_count
-  @@artists.
+  @@artists.each do ||
 end
 
 def self.artists
